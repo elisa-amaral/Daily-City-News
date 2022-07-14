@@ -1,7 +1,7 @@
 # Daily City News
 
 This project is a website prototype of a fictional  newspaper named Daily City News.
-It was coded in intermediate HTML and CSS with the purpose of showing that it's possible to create a simple but well designed website with intermediate HTML and CSS.
+It was coded in  HTML and CSS (intermediate level) with the purpose of showing that it's possible to create a simple but well designed website with intermediate HTML and CSS.
 
 ## Screenshot 
 
