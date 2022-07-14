@@ -2,7 +2,7 @@
 
 This project is fictional news website.
 It was coded with intermediate HTML and CSS, with the purpose of showing that it's possible to 
-create a simple but well designed website with essential HTML tags and basic CSS.
+create a simple but well designed website with intermediate HTML and CSS.
 
 ## Screenshot 
 
