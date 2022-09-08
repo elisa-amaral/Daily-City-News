@@ -13,5 +13,7 @@ This project is a website prototype of a fictional  newspaper named Daily City N
 
 ## Technology Stack
 
+The project was built with:
+
 + HTML
 + CSS
